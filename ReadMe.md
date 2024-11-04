@@ -1,4 +1,4 @@
-# U7S3 ExceptionHandling
+# U8S3 ExceptionHandling
 
 * Part A - Foundations 8.3
 * Part B - Algorithm Challenge
